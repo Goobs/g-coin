@@ -1,0 +1,15 @@
+django<1.7
+django-grappelli==2.5.3
+FeinCMS==1.9.1
+-e git+git@github.com:ashvetsov/grappelli-tools.git#egg=grappelli-tools
+south
+pytils
+xlwt
+Pillow
+django-crispy-forms
+lxml
+djangorestframework
+django-celery
+sorl-thumbnail==11.12
+sorl-thumbnail-async==0.5.2
+
