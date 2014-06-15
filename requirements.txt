@@ -12,4 +12,6 @@ djangorestframework
 django-celery
 sorl-thumbnail==11.12
 sorl-thumbnail-async==0.5.2
+Quandl==1.9.7
+pandas
 

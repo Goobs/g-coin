@@ -30,3 +30,4 @@ static/thumb/*
 /static/thumb/*
 *.db
 /media
+authtoken.p
